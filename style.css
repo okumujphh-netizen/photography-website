@@ -13,8 +13,7 @@ header {
     color: black;
     text-align: center;
     padding: 40px;
-    display: flexbox;
-    flex-direction: column;
+   border-radius: 30px;
 
 
 }
@@ -42,12 +41,10 @@ header p {
 .hero {
     background-color: whitesmoke;
     width: 90%;
-    margin: 40px auto;
+    margin: 40px ;
     padding: 30px;
     text-align: center;
-    border: 2px solid #d1d5db;
-    border-radius: 10px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 30px;
 }
 
 .hero {
@@ -64,7 +61,7 @@ header p {
 }
 
 .hero strong{
-    color: #2563eb;
+    color: blue;
 }
 
 .hero:hover{
