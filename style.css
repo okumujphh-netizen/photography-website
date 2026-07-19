@@ -87,6 +87,7 @@ header p {
 .navigation {
     background-color: grey;
     padding: 15px;
+    border-radius: 50px;
 }
 
 .navigation ul {
