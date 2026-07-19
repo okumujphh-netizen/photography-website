@@ -1,5 +1,5 @@
 /* general styling*/
-body{
+body {
     background-color: darkslategrey;
     font-family: Arial, Helvetica, sans-serif;
     color: black;
@@ -12,43 +12,90 @@ body{
 
 /* header*/
 
-header{
+header {
     background-color: dimgrey;
     color: black;
     text-align: center;
-    padding:40px;
-    display:flexbox;
-    flex-direction:column;
-    
-    
+    padding: 40px;
+    display: flexbox;
+    flex-direction: column;
+
+
 }
-h1{
+
+h1 {
     color: black;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-size: 70px;
 }
 
-header p{
+header p {
     margin-top: 15px;
     font-size: 20px;
     font-style: italic;
+
+
+
+
+
+
+    /*welcome section*/
+
+
 }
+.hero {
+    background-color: whitesmoke;
+    width: 90%;
+    margin: 40px auto;
+    padding: 30px;
+    text-align: center;
+    border: 2px solid #d1d5db;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+}
+
+.hero {
+    font-size: 36px;
+    color: #1f2937;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.hero p{
+    font-size: 18px;
+    color: #4b5563;
+    line-height: 1.8;
+}
+
+.hero strong{
+    color: #2563eb;
+}
+
+.hero:hover{
+    transform: scale(1.02);
+    transition: 0.3s ease;
+}
+
+
+
+}
+
 /*navigation*/
 
-.navigation{
-    background-color:grey;
+.navigation {
+    background-color: grey;
     padding: 15px;
 }
 
-.navigation ul{
+.navigation ul {
     list-style: none;
     text-align: center;
 }
 
-.navigation li{
+.navigation li {
     display: inline-block;
     margin: 0 20px;
-    font-weight: bold;
+    font-weight: bolder;
     color: white;
     cursor: pointer;
 }
