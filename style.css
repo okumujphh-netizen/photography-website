@@ -101,4 +101,8 @@ header p {
     color: white;
     cursor: pointer;
 }
-
+.navigation :hover{
+    transition:0.7s;
+    background-color: wheat;
+    border-radius: 40px;
+}
