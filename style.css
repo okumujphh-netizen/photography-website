@@ -193,3 +193,37 @@ header p {
 .favourite-photos img:hover{
     transform: scale(1.05);
 }
+
+.biography{
+    width: 80%;
+    margin: 40px auto;
+    padding: 30px;
+    background-color: #f8f9fa;
+    border-radius: 12px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.2);
+    text-align: center;
+}
+
+.biography h2{
+    font-size: 32px;
+    color: #1f2937;
+    margin-bottom: 20px;
+}
+
+.biography p{
+    font-size: 18px;
+    line-height: 1.8;
+    color: #333333;
+    text-align: justify;
+}
+
+.biography strong{
+    color: #2563eb;
+    font-weight: bold;
+}
+
+.biography span{
+    color: #e63946;
+    font-style: italic;
+    font-weight: bold;
+}
