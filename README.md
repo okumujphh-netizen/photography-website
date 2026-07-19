@@ -4,7 +4,7 @@ Moments - Photography Website
 
 **Moments** is a simple photography website created using **HTML** and **CSS**. The website is designed to showcase beautiful photographs while demonstrating the fundamental web development skills learned so far.
 
-The site features a clean and responsive layout with sections introducing the website, displaying a photo gallery, listing favourite photographs, explaining the website's purpose, and presenting the initial website design (wireframe).
+The site features a clean and responsive layout with sections introducing the website, displaying a photo gallery, listing favourite photographs and explaining the website purpose.
 
 ---
 
@@ -87,7 +87,7 @@ Moments
 
 ###### Project Design
 
-Before development, a simple wireframe was created to plan the website layout. The design is included within the website for review.
+Before development, a simple sketch of the website was shown and how it was intended to look like.
 
 ---
 
