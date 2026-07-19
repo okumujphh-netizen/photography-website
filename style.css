@@ -157,15 +157,23 @@ header p {
     width: 90%;
     margin: 40px auto;
     padding: 30px;
-    background-color: grey;
-    border-radius: 10px;
+    background-color: gray;
+    border-radius: 20px;
     text-align: center;
+    border: 3px solid white;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
 }
 
-.favourite-photos h2{
-    font-size: 45px;
-    margin-bottom: 25px;
-    color: black;
+
+
+    .favourite-photos h2{
+    font-size: 35px;
+    color: #0d56bd;
+    background-color: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+    margin-bottom: 30px;
 }
 
 .favourite-photos ol{
@@ -186,13 +194,13 @@ header p {
     margin: 15px 0 30px;
     border-radius: 15px;
     border: 5px solid white;
-    box-shadow: 0 5px 12px rgba(0,0,0,0.3);
+    box-shadow: 0 5px 12px rgba(241, 90, 90, 0.3);
     transition: 0.3s;
 }
 
 .favourite-photos img:hover{
     transform: scale(1.05);
-    box-shadow: 0 8px 18px rgba(0,0,0,0.4);
+    box-shadow: 0 8px 18px rgba(1, 1, 58, 0.4);
 }
 
 .favourite-photos img:hover{
