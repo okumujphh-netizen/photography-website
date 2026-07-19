@@ -263,4 +263,16 @@ header p {
 .design img:hover{
     transform: scale(1.03);
 }
+.footer{
+    background-color: #1f2937;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 40px;
+}
 
+.footer p{
+    font-size: 16px;
+    margin: 0;
+    letter-spacing: 1px;
+}
