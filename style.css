@@ -30,7 +30,10 @@ header p {
     font-style: italic;
     background-color: whitesmoke;
     border-radius: 20px;
-    
+}
+
+
+
 
 
 
@@ -40,7 +43,7 @@ header p {
     /*welcome section*/
 
 
-}
+
 
 .hero {
     background-color: whitesmoke;
