@@ -80,12 +80,15 @@ Moments
 ├── Favourite Photos
 ├── Website Biography
 ├── Website Design
+|
 └── Footer
-```
 
 ---
 
-###### Project Design
+
+---
+
+##### Project Design
 
 Before development, a simple sketch of the website was shown and how it was intended to look like.
 
