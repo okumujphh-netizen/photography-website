@@ -7,6 +7,15 @@ Moments - Photography Website
 The site features a clean and responsive layout with sections introducing the website, displaying a photo gallery, listing favourite photographs and explaining the website purpose.
 
 ---
+## About Me
+
+Hi, I'm **John Okumu**, a Software Engineering student with a passion for web development and technology. I enjoy creating simple, user-friendly websites while improving my coding skills.
+
+You can view my photography website here:
+**Live Website:** https://github.com/okumujphh-netizen/photography-website/tree/main
+
+You can also view the source code on GitHub:
+**Repository:** https://github.com/okumujphh-netizen/photography-website/tree/main
 
 ## Features
 
