@@ -281,7 +281,10 @@ header p {
     margin:40px;
     padding:30px;
     border-radius:30px;
-    background-color: whitesmoke;
+    background-color: gray;
+}
+.contact strong{
+    color:blue
 }
 
 
