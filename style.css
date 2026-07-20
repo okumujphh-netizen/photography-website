@@ -276,8 +276,19 @@ header p {
 }
 
 
+.contact{
+    width:90%;
+    margin:40px;
+    padding:30px;
+    border-radius:30px;
+    background-color: whitesmoke;
+}
+
+
+
+
 .footer{
-    background-color: #1f2937;
+    background-color:gray;
     color: white;
     text-align: center;
     padding: 20px;
